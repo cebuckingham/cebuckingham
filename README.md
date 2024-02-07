@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cebuckingham
 - 👀 I’m interested in ... physics of the oceans
 - 🌱 I’m currently learning ... how to use Julia and maybe MITgcm
-- 💞️ I’m looking to collaborate on ... vortex stability
+- 💞️ I’m looking to collaborate on ... frontal dynamics and vortex dynamics
 - 📫 How to reach me ... Stay tuned!
 
 <!---
